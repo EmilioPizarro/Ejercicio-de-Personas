@@ -1,0 +1,11 @@
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\bin\Debug\probar.exe.config
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\bin\Debug\probar.exe
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\bin\Debug\probar.pdb
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.csproj.AssemblyReference.cache
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.csproj.SuggestedBindingRedirects.cache
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.Form1.resources
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.Properties.Resources.resources
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.csproj.GenerateResource.cache
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.csproj.CoreCompileInputs.cache
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.exe
+D:\Cosas facultad\PAV1\Practica Personal\Pinturas\probar\obj\Debug\probar.pdb
